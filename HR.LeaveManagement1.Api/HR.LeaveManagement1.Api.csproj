@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HR.LeaveManagement.Persistence\HR.LeaveManagement1.Persistence.csproj" />
+    <ProjectReference Include="..\HR.LeaveManagement1.Application\HR.LeaveManagement1.Application.csproj" />
+    <ProjectReference Include="..\HR.LeaveManagement1.Domain\HR.LeaveManagement1.Domain.csproj" />
+    <ProjectReference Include="..\HR.LeaveManagement1.Identity\HR.LeaveManagement1.Identity.csproj" />
+    <ProjectReference Include="..\HR.LeaveManagement1.Infrastructure\HR.LeaveManagement1.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

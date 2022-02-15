@@ -1,0 +1,12 @@
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\bin\Debug\net5.0\HR.LeaveManagement1.Domain.deps.json
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\bin\Debug\net5.0\HR.LeaveManagement1.Domain.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\bin\Debug\net5.0\ref\HR.LeaveManagement1.Domain.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\bin\Debug\net5.0\HR.LeaveManagement1.Domain.pdb
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\HR.LeaveManagement1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\HR.LeaveManagement1.Domain.AssemblyInfoInputs.cache
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\HR.LeaveManagement1.Domain.AssemblyInfo.cs
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\HR.LeaveManagement1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\HR.LeaveManagement1.Domain.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\ref\HR.LeaveManagement1.Domain.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\HR.LeaveManagement1.Domain.pdb
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Domain\obj\Debug\net5.0\HR.LeaveManagement1.Domain.csproj.AssemblyReference.cache

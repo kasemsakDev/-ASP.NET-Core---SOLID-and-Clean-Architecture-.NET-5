@@ -1,0 +1,15 @@
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\bin\Debug\net5.0\HR.LeaveManagement1.Application.deps.json
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\bin\Debug\net5.0\HR.LeaveManagement1.Application.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\bin\Debug\net5.0\ref\HR.LeaveManagement1.Application.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\bin\Debug\net5.0\HR.LeaveManagement1.Application.pdb
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\bin\Debug\net5.0\HR.LeaveManagement1.Domain.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\bin\Debug\net5.0\HR.LeaveManagement1.Domain.pdb
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.csproj.AssemblyReference.cache
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.AssemblyInfoInputs.cache
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.AssemblyInfo.cs
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.csproj.CoreCompileInputs.cache
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.csproj.CopyComplete
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\ref\HR.LeaveManagement1.Application.dll
+C:\Users\namek\source\repos\HR.LeaveManagement1\HR.LeaveManagement1.Application\obj\Debug\net5.0\HR.LeaveManagement1.Application.pdb

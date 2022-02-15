@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73360a18-08e7-48b9-8437-c6ed99746d37": {
+      "ProjectGuid": "73360a18-08e7-48b9-8437-c6ed99746d37",
+      "DisplayName": "HR.LeaveManagement1.Domain",
+      "ColorIndex": 0
+    },
+    "38e18111-026a-45e3-8d26-ad1f4bca3970": {
+      "ProjectGuid": "38e18111-026a-45e3-8d26-ad1f4bca3970",
+      "DisplayName": "HR.LeaveManagement1.Application",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bf631bc9-de85-4408-959e-b66235d08bc5": {
+      "ProjectGuid": "bf631bc9-de85-4408-959e-b66235d08bc5",
+      "DisplayName": "HR.LeaveManagement1.Infrastructure",
+      "ColorIndex": 2
+    },
+    "ea9ae89c-f311-48fe-a4c2-b5082488b13f": {
+      "ProjectGuid": "ea9ae89c-f311-48fe-a4c2-b5082488b13f",
+      "DisplayName": "HR.LeaveManagement1.Persistence",
+      "ColorIndex": 3
+    },
+    "d301e216-285d-4526-9917-40bdedfbfcb7": {
+      "ProjectGuid": "d301e216-285d-4526-9917-40bdedfbfcb7",
+      "DisplayName": "HR.LeaveManagement1.Api",
+      "ColorIndex": 4
+    },
+    "e35dd1e8-906c-4c39-8ca8-ef36b0ad2c85": {
+      "ProjectGuid": "e35dd1e8-906c-4c39-8ca8-ef36b0ad2c85",
+      "DisplayName": "HR.LeaveManagement1.Application.UnitTests",
+      "ColorIndex": 5
+    },
+    "da40888f-79b3-4576-8e4d-83fc7575ee89": {
+      "ProjectGuid": "da40888f-79b3-4576-8e4d-83fc7575ee89",
+      "DisplayName": "HR.LeaveManagement1.Identity",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
